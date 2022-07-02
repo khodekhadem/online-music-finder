@@ -18,24 +18,24 @@ find and download a music whit a part of its text
 
 # Requirements
 
-first you have to install "python", "python3" and "git" ; for example in [ubuntu](ubuntu.com) you have to use this command in terminal
+first you have to install "python", "python3" and "git" and"mpv" ; for example in [ubuntu](ubuntu.com) you have to use this command in terminal
 
-    sudo apt-get install python python3 git
+    sudo apt-get install python python3 git mpv
 or in [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_US&gl=US) it would be like this
     
-    pkg install  python python3 git -y
+    pkg install  python python3 git mpv -y
 
 
 # installation
 first, download it
 
-    git clone https://github.com/khodekhadem/music_finder/
+    git clone https://github.com/khodekhadem/online-music_finder/
 
 then, go to the directory
 
-    cd music_finder
+    cd online-music_finder
 
-now, install require ments
+now, install requirements
 
     pip install -r requirements.txt
 
@@ -47,7 +47,7 @@ or may be you have to use this
 
 use this command
 
-    python3 main.py
+    python3 main.py put-your-text-here
 
 
 # my social medias

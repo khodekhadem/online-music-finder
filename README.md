@@ -20,7 +20,7 @@ you can find the version that  download and let you select the music quality [he
 
 # Requirements
 
-first you have to install "python", "python3" and "git" and"mpv" ; for example in [ubuntu](ubuntu.com) you have to use this command in terminal
+first you have to install "python", "python3" and "git" and "mpv" ; for example in [ubuntu](ubuntu.com) you have to use this command in terminal
 
     sudo apt-get install python python3 git mpv
 or in [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_US&gl=US) it would be like this

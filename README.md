@@ -13,8 +13,10 @@
 
 
 
-# music_finder
-find and download a music whit a part of its text
+# online_music_finder
+find and play a music online whit a part of its text
+
+this is the version that just download and let you select the music quality
 
 # Requirements
 

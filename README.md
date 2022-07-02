@@ -16,7 +16,7 @@
 # online_music_finder
 find and play a music online whit a part of its text
 
-you can find the version that  download and let you select the music quality [here][https://github.com/khodekhadem/music_finder/blob/main/README.md]
+you can find the version that  download and let you select the music quality [here](https://github.com/khodekhadem/music_finder/blob/main/README.md)
 
 # Requirements
 
